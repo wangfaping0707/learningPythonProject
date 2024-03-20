@@ -1,0 +1,1 @@
+{"name": "赫卡里姆", "age": 799, "favorite": ["music", "swim", "reading"], "cook": "美食", "运动": "打球", "学历": "博士后"}

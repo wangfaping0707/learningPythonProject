@@ -1,0 +1,6 @@
+log = open('log.txt', 'w+')
+print(1, 2, 3, file=log)
+print(4, 5, 6, file=log)
+log.close()
+print('come back here!')
+print(open('log.txt', 'r+').read())
